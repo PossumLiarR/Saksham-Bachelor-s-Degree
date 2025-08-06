@@ -1,0 +1,1 @@
+I checked by changing the solar cell with a simple voltage generator… whenever i start with a voltage value that is lower than the Vmmpc value set, the system does not work as expected.
