@@ -18,6 +18,7 @@ Repository about my internship and thesis work of my Bachelor's Degree
 
 ##### Supporting libraries (TBD...)
 - Complex PhotoVoltaic panel library by FesZ Electronics
+- Spice models of ICs from manifacturers websites (example: TLV3691)
 - etc...
 
 
