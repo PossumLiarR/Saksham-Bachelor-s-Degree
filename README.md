@@ -8,7 +8,7 @@ Repository about my internship and thesis work of my Bachelor's Degree
 - SM111K06L solar cell
 - LTC3105EDD boost regulator
 - ADG819 switches
-- TS884 comparators
+- TLV3691 comparators
 - etc...
 - _(Optional) etc..._
   
