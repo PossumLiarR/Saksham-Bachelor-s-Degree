@@ -9,6 +9,7 @@ Repository about my internship and thesis work of my Bachelor's Degree
 - LTC3105EDD boost regulator
 - ADG819 switches
 - TLV3691 comparators
+- SN74AUP1G08 and gate
 - etc...
 - _(Optional) etc..._
   
