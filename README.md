@@ -17,9 +17,10 @@ Repository about my internship and thesis work of my Bachelor's Degree
 - **LTspice** from Analog Devices (SPICE simulator software, schematic capture and waveform viewer) 
 - **Waveforms** from Digilent (virtual instrument suite for Digilent Test and Measurement devices)
 
-##### Supporting libraries (TBD...)
+##### Supporting libraries/websites (TBD...)
 - Complex PhotoVoltaic panel library by FesZ Electronics
 - Spice models of ICs from manifacturers websites (example: TLV3691)
+- Logic.ly
 - etc...
 
 
