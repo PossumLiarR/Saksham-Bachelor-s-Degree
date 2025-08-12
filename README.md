@@ -10,6 +10,8 @@ Repository about my internship and thesis work of my Bachelor's Degree
 - ADG819 switches
 - TLV3691 comparators
 - SN74AUP1G08 and gate
+- SN74AUP1G04 not gate
+- SN74AUP1G32 or gate
 - etc...
 - _(Optional) etc..._
   
